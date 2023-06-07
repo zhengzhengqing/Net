@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzq/学习/study_for_good_life/Net/2022-09-05(TCP-IP)/src/server.cc
+memory
+-
+vector
+-
+unistd.h
+-
+errno.h
+-
+stdio.h
+-
+fcntl.h
+-
+stdlib.h
+-
+assert.h
+-
+signal.h
+-
+string.h
+-
+iostream
+-
+dirent.h
+-
+sys/epoll.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+
